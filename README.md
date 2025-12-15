@@ -1,4 +1,4 @@
-<img src="Profile.jpg" alt="My Profile" width="600"/>
+<img src="Profile.jpg" alt="My Profile" width="100%"/>
 
 <div id="user-content-toc">
   <ul align="center">
