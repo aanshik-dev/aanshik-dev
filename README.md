@@ -11,8 +11,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Second+Year+B.Tech+UnderGrad;Student+of+IIIT+Guwahati;Computer+Science+Student;Love+to+learn+new+stuffs;Tech+Savey,+Coding+Enthusiast"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Second+Year+B.Tech+Undergraduate;Student+at+IIIT+Guwahati;Computer+Science+Enthusiast+Who+Loves+Coding;Tech-Savvy+Problem+Solver" />
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
