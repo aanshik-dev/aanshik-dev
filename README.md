@@ -8,8 +8,6 @@
   </ul>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Second+Year+B.Tech+Undergraduate;Student+at+IIIT+Guwahati;Computer+Science+Enthusiast+Who+Loves+Coding;Tech-Savvy+Problem+Solver" />
@@ -43,15 +41,10 @@
   </tr>
 </table>
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> TECH STACK
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,discord,figma,firebase,git,github,md,py,react,vscode" />
@@ -60,11 +53,7 @@
 
 <br>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## 🤙 CONNECT WITH ME
 
 <!--icons and links-->
 <p align="center">
