@@ -1,3 +1,5 @@
+<img src="profile.jpg" alt="My Banner" width="600"/>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block, height: 20%">Hi 👋, I'm Aanshik</h1></summary>
