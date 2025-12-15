@@ -15,3 +15,58 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<div id="user-content-toc">
+  <ul align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=118249537" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=118249537&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @aanshik-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=118249537&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>  </ul>
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aanshik-dev&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aanshik-dev&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,discord,figma,firebase,git,github,md,py,react,vscode" />
+  </a>
+</p>
+
+<br>
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/aanshik-dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/aanshiq_singh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://wa.me/918822630829" target="blank"><img align="center" src="whatsapp.png" alt="Whatsapp" height="50" width="50" /></a>
+  
+</p>
