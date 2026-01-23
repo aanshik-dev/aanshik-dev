@@ -49,7 +49,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,discord,figma,firebase,git,github,md,py,react,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,discord,figma,firebase,git,github,md,py,react,vscode,tailwind,mysql" />
   </a>
 </p>
 
