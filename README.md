@@ -30,7 +30,7 @@
 
 <br>
 
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=aanshik-dev&show_icons=true&theme=dark" />
@@ -39,7 +39,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aanshik-dev&layout=compact&theme=dark" />
     </td>
   </tr>
-</table> -->
+</table>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
