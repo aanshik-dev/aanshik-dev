@@ -52,8 +52,24 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,discord,figma,firebase,git,github,md,py,react,vscode,tailwind,mysql" />
   </a>
 </p>
-
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 VISIT MY WEBSITE
+<p align="center">
+  <a href="https://aanshik-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20Out-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  A showcase of my journey as a developer at IIIT Guwahati, featuring projects in React, Algorithms, and more.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
 
 ## 🤙 CONNECT WITH ME
 <br>
