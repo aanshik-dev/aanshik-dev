@@ -4,13 +4,14 @@
   <ul align="center">
     <summary>    <h1 style="display: inline-block;  line-height: 100%;margin: 50px 0px 0px;">Hi 👋, I'm Aanshik</h1>
       <h4 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp&nbsp<i>Formally</i></h4>
-    <h2 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp<b>Ansik Singh Tomar</b></h2></summary>
+    <h2 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp<b>Ansik Singh Tomar</b></h2>
   </ul>
+    Hi, I’m Ansik Singh Tomar, aka Aanshik, a second-year B.Tech student at IIIT Guwahati who enjoys turning ideas into things that actually work, respond, and automate workspace. I’m interested in how ideas take shape through structure, interaction, and thoughtful execution, especially where design and logic meet.</summary>
 </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Second+Year+B.Tech+Undergraduate;Student+at+IIIT+Guwahati;Computer+Science+Enthusiast+Who+Loves+Coding;Tech-Savvy+Problem+Solver" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Second+Year+B.Tech+Undergraduate;Student+at+IIIT+Guwahati;Computer+Science+Enthusiast+Who+Loves+Coding;Tech-Savvy+Problem+Solver"/>
   </a>
 </p>
 
@@ -18,28 +19,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<div id="user-content-toc">
-  <ul align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=118249537" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=118249537&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @aanshik-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=118249537&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>  </ul>
-</div>
 
-<br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aanshik-dev&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aanshik-dev&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/aanshik-dev"><img  src="https://gh-readme-profile.vercel.app/api?username=aanshik-dev&theme=transparent&border_width=0.2" width="100%" /></a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -74,7 +56,17 @@
 
 
 ## 🤙 CONNECT WITH ME
-<br>
+Have any questions for me? Or just casual chat, feel free to dm me 😉
+
+<div align="center">
+
+[![WhatsApp](icons/whatsapp-icon.svg)](https://wa.me/918822630829)
+[![Email](icons/mail-icon.svg)](mailto:aanshiksinghtomar@gmail.com)
+[![Instagram](icons/instagram-icon.svg)](https://instagram.com/fajarkim_)
+</div>
+
+
+<!-- <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/aanshik-dev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/aanshiq_singh" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
@@ -83,4 +75,16 @@
 <a href="mailto:aanshiksinghtomar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</p> -->
+
+
+### 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanshik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aanshik-Dev" />
 </p>
+
+
+<img src="icons/line.svg" alt="My Profile" width="100%"/>
+
+<p align="center"><sub>Made with ❤️</br>Copyright © 2025 | Aanshik-dev</sub></p>
