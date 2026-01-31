@@ -9,6 +9,22 @@
     Hi, I’m Ansik Singh Tomar, aka Aanshik, a second-year B.Tech student at IIIT Guwahati who enjoys turning ideas into things that actually work, respond, and automate workspace. I’m interested in how ideas take shape through structure, interaction, and thoughtful execution, especially where design and logic meet.</summary>
 </div>
 
+
+<p align="center">
+  <a href="https://aanshik-dev.vercel.app/" target="_blank">
+    <img src="FavIcon.png" alt="Portfolio Icon" width="100px" />
+  </a>
+  <br>
+  <a href="https://aanshik-dev.vercel.app">
+  <img src="https://img.shields.io/badge/VISIT%20WEBSITE-AANSHIK--DEV-8A2BE2?style=for-the-badge" height="50">
+  </a>
+
+</p>
+
+<p align="center">
+  <i>Explore my projects, skills, and technical journey in a fully interactive React environment.</i>
+</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Second+Year+B.Tech+Undergraduate;Student+at+IIIT+Guwahati;Computer+Science+Enthusiast+Who+Loves+Coding;Tech-Savvy+Problem+Solver"/>
@@ -16,15 +32,8 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-
-
 <a href="https://github.com/aanshik-dev"><img  src="https://gh-readme-profile.vercel.app/api?username=aanshik-dev&theme=transparent&border_width=0.2" width="100%" /></a>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> TECH STACK
@@ -36,53 +45,42 @@
 </p>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 VISIT MY WEBSITE
-
-<p align="center">
-  <a href="https://aanshik-dev.vercel.app/" target="_blank">
-    <img src="FavIcon.png" alt="Portfolio Icon" width="100px" />
-  </a>
-  <br>
-  <b><a href="https://aanshik-dev.vercel.app/">AANSHIK-DEV</a></b>
-</p>
-
-<p align="center">
-  <i>Explore my projects, skills, and technical journey in a fully interactive React environment.</i>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
 
 ## 🤙 CONNECT WITH ME
-Have any questions for me? Or just casual chat, feel free to dm me 😉
 
 <div align="center">
-
-[![WhatsApp](icons/whatsapp-icon.svg)](https://wa.me/918822630829)
-[![Email](icons/mail-icon.svg)](mailto:aanshiksinghtomar@gmail.com)
-[![Instagram](icons/instagram-icon.svg)](https://instagram.com/fajarkim_)
+  
+Have any questions for me? Or just casual chat, feel free to dm me 😉
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/aanshik-dev">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://wa.me/918822630829">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:aanshiksinghtomar@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/aanshiq_singh">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
-
-<!-- <br>
-<p align="center">
-<a href="https://www.linkedin.com/in/aanshik-dev" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/aanshiq_singh" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://wa.me/918822630829" target="+blank"><img align="center" src="whatsapp.png" alt="Whatsapp" height="50" width="50" /></a>
-<br><br>
-<a href="mailto:aanshiksinghtomar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+### 👀 Profile Views
+<a href="https://www.instagram.com/aanshiq_singh"> 
+  <img src="https://komarev.com/ghpvc/?username=aanshik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aanshik-Dev" height="40" />
 </a>
-</p> -->
-
-
-### 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanshik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aanshik-Dev" />
-</p>
 
 
 <img src="icons/line.svg" alt="My Profile" width="100%"/>
