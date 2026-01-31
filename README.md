@@ -70,7 +70,7 @@ Have any questions for me? Or just casual chat, feel free to dm me 😉
     </td>
     <td>
       <a href="https://www.instagram.com/aanshiq_singh">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+        <img src="https://img.shields.io/badge/Instagram-d000ff?style=for-the-badge&logo=instagram&logoColor=white" height="40">
       </a>
     </td>
   </tr>
