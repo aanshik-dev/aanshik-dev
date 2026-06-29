@@ -77,9 +77,18 @@ Have any questions for me? Or just casual chat, feel free to dm me 😉
 </table>
 </div>
 
-### 👀 Profile Views
+<br>
+<br>
+
+## 👨🏻‍💻 GITHUB ACTIVITY
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanshik-dev&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution Graph" />
+</div>
+<br>
+
+### 👀 PROFILE VIEWS
 <a href="https://www.instagram.com/aanshiq_singh"> 
-  <img src="https://komarev.com/ghpvc/?username=aanshik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aanshik-Dev" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=aanshik-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Aanshik-Dev" height="80" />
 </a>
 
 
