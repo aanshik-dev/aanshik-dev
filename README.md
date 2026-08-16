@@ -6,7 +6,7 @@
       <h4 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp&nbsp<i>Formally</i></h4>
     <h2 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp<b>Ansik Singh Tomar</b></h2>
   </ul>
-    Hi, I’m Ansik Singh Tomar, aka Aanshik, a second-year B.Tech student at IIIT Guwahati who enjoys turning ideas into things that actually work, respond, and automate workspace. I’m interested in how ideas take shape through structure, interaction, and thoughtful execution, especially where design and logic meet.</summary>
+    Hi, I’m Ansik Singh Tomar, aka Aanshik, a third-year B.Tech student at IIIT Guwahati who enjoys turning ideas into things that actually work, respond, and automate workspace. I’m interested in how ideas take shape through structure, interaction, and thoughtful execution, especially where design and logic meet.</summary>
 </div>
 
 
